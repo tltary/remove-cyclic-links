@@ -2,6 +2,8 @@
 
 Takes all links from the page and replaces with span to avoid seo looping.
 
+[https://tltary.github.io/remove-cyclic-links/index.html](Demo)
+
 ```js
 let link = document.querySelectorAll('a');
 let url  = window.location.href;

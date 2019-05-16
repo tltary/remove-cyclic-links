@@ -2,7 +2,7 @@
 
 Takes all links from the page and replaces with span to avoid seo looping.
 
-[Demo](https://tltary.github.io/remove-cyclic-links/index.html)
+[Demo](https://tltary.github.io/remove-cyclic-links/example/index.html)
 
 ```js
 let link = document.querySelectorAll('a');
